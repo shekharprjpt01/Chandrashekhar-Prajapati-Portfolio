@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/shekharprjpt01/Chandrashekhar-Prajapati-Portfolio/static/css/main.de125d81.css",
-    "main.js": "/shekharprjpt01/Chandrashekhar-Prajapati-Portfolio/static/js/main.e359e102.js",
+    "main.css": "/shekharprjpt01/Chandrashekhar-Prajapati-Portfolio/static/css/main.ec162153.css",
+    "main.js": "/shekharprjpt01/Chandrashekhar-Prajapati-Portfolio/static/js/main.6a0d1c0e.js",
     "static/js/415.4d6acbeb.chunk.js": "/shekharprjpt01/Chandrashekhar-Prajapati-Portfolio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/shekharprjpt01/Chandrashekhar-Prajapati-Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/leaf.png": "/shekharprjpt01/Chandrashekhar-Prajapati-Portfolio/static/media/leaf.ff2616f664c8c0ceab91.png",
@@ -17,13 +17,13 @@
     "static/media/avatar.svg": "/shekharprjpt01/Chandrashekhar-Prajapati-Portfolio/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
     "index.html": "/shekharprjpt01/Chandrashekhar-Prajapati-Portfolio/index.html",
     "static/media/pre.svg": "/shekharprjpt01/Chandrashekhar-Prajapati-Portfolio/static/media/pre.4410c5baaa673cc131da.svg",
-    "main.de125d81.css.map": "/shekharprjpt01/Chandrashekhar-Prajapati-Portfolio/static/css/main.de125d81.css.map",
-    "main.e359e102.js.map": "/shekharprjpt01/Chandrashekhar-Prajapati-Portfolio/static/js/main.e359e102.js.map",
+    "main.ec162153.css.map": "/shekharprjpt01/Chandrashekhar-Prajapati-Portfolio/static/css/main.ec162153.css.map",
+    "main.6a0d1c0e.js.map": "/shekharprjpt01/Chandrashekhar-Prajapati-Portfolio/static/js/main.6a0d1c0e.js.map",
     "415.4d6acbeb.chunk.js.map": "/shekharprjpt01/Chandrashekhar-Prajapati-Portfolio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/shekharprjpt01/Chandrashekhar-Prajapati-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.de125d81.css",
-    "static/js/main.e359e102.js"
+    "static/css/main.ec162153.css",
+    "static/js/main.6a0d1c0e.js"
   ]
 }
