@@ -8,6 +8,7 @@ import editor from "../../Assets/Projects/codeEditor.png";
 import chatify from "../../Assets/Projects/chatify.png";
 import suicide from "../../Assets/Projects/suicide.png";
 import bitsOfCode from "../../Assets/Projects/blog.png";
+import Button from "react-bootstrap/Button";
 
 function Projects() {
   return (
@@ -21,6 +22,65 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+
+        <Col md={4} className="project-card">
+            <ProjectCard
+    imgPath="https://play-lh.googleusercontent.com/xcCnuuAFFOVWUM4f1MD8GRO31w5iIjunPnf1bSl8qX-l5XSyUCnaUtTYV_9YeJcwOi4=w5120-h2880-rw"
+    isBlog={false}
+              title="MAA Health and Care"
+              description="An e-commerce medical app built using React Native, Redux, and React Navigation. Customers can browse and order medicines, upload prescriptions for auto-cart fill, and book doctor appointments based on available time slots. Built end-to-end as a solo developer."
+              // ghLink=""
+              demoLink=""
+              playStoreLink="https://play.google.com/store/search?q=maa+health+and+care&c=apps&hl=en"
+              appStoreLink="https://apps.apple.com/in/app/maa-health-and-care/id6446773121?platform=iphone"
+            
+            />
+          </Col>
+
+          
+<Col md={4} className="project-card">
+  <ProjectCard
+    // imgPath={"https://play-lh.googleusercontent.com/BdWZG6vy4p5XnHlHJFt1CEtVcE6gnfkzVGtJnm8dCTcnmkP5xAxnRrZauf2RPZKK1nX6=s248-rw"}
+    isBlog={false}
+    title="Payall Electrics App"
+    description="An Android e-commerce app built using Java for selling electrical items like wires and tools. The app includes a token-based reward system where customers earn redeemable tokens on purchases. Features include QR scanner integration, REST API support, and a smooth shopping experience."
+    ghLink={""} // Add your GitHub link here, or leave as "" if private
+    demoLink={""} // Optional: Add a demo video or Play Store link
+    playStoreLink="https://play.google.com/store/apps/details?id=com.payallelectrics.dealer.electrician&hl=en"
+
+  />
+</Col>
+
+
+<Col md={4} className="project-card">
+  <ProjectCard
+    // imgPath={"https://play-lh.googleusercontent.com/tPp1ZNDeyUh58H_vdGa4aWycmQNaeWzSOI2hymBOgcwjzbsB0V8j3S-yv7ZUJzVGaiNO=w5120-h2880-rw"}
+    isBlog={false}
+    title="Payall Yodha"
+    description="A delivery tracking app built in Java for the Payall Electrics system. It uses WebView to load the web dashboard, with added support for native Android location permissions and real-time GPS display for delivery personnel."
+    ghLink="" // or leave blank if private
+    demoLink="" // optional if you have a video/demo    
+    playStoreLink="https://play.google.com/store/apps/details?id=erpyodha.payallelectrics.com&hl=en"
+
+  />
+</Col>
+
+
+{/* <Col md={4} className="project-card">
+  <ProjectCard
+    // imgPath={editor}
+    isBlog={false}
+    title="Vidhik Sahayata"
+    description="An Android app that connects customers with lawyers. Includes dual login for lawyers and customers. Customers can view lawyer profiles, book appointments based on available time slots, and communicate via video, voice calls, or chat using Agora SDK."
+    ghLink={""} // Add GitHub link if available
+    demoLink={""} // Optional: Demo video or Play Store link
+  />
+
+  
+</Col> */}
+
+
+{/*           
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={chatify}
@@ -31,6 +91,8 @@ function Projects() {
               demoLink="https://chatify-49.web.app/"
             />
           </Col>
+
+
 
           <Col md={4} className="project-card">
             <ProjectCard
@@ -43,6 +105,7 @@ function Projects() {
             />
           </Col>
 
+
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={editor}
@@ -53,6 +116,9 @@ function Projects() {
               demoLink="https://editor.soumya-jit.tech/"              
             />
           </Col>
+
+
+
 
           <Col md={4} className="project-card">
             <ProjectCard
@@ -86,7 +152,7 @@ function Projects() {
               ghLink="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
               // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
             />
-          </Col>
+          </Col> */}
         </Row>
       </Container>
     </Container>
