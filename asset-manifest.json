@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Chandrashekhar-Prajapati-Portfolio/static/css/main.d03ff23b.css",
-    "main.js": "/Chandrashekhar-Prajapati-Portfolio/static/js/main.81ae8ddc.js",
+    "main.js": "/Chandrashekhar-Prajapati-Portfolio/static/js/main.a4db6205.js",
     "static/js/415.4d6acbeb.chunk.js": "/Chandrashekhar-Prajapati-Portfolio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/Chandrashekhar-Prajapati-Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/leaf.png": "/Chandrashekhar-Prajapati-Portfolio/static/media/leaf.ff2616f664c8c0ceab91.png",
@@ -11,19 +11,18 @@
     "static/media/blog.png": "/Chandrashekhar-Prajapati-Portfolio/static/media/blog.fb8ab7f271a937d5fc01.png",
     "static/media/home-main.svg": "/Chandrashekhar-Prajapati-Portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
     "static/media/about.png": "/Chandrashekhar-Prajapati-Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/ChandrashekharPrajapatiResume.pdf": "/Chandrashekhar-Prajapati-Portfolio/static/media/ChandrashekharPrajapatiResume.d7da42569546aadb1f35.pdf",
     "static/media/chatify.png": "/Chandrashekhar-Prajapati-Portfolio/static/media/chatify.7206044e0b5cdad44726.png",
     "static/media/home-bg.jpg": "/Chandrashekhar-Prajapati-Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/avatar.svg": "/Chandrashekhar-Prajapati-Portfolio/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
     "static/media/pre.svg": "/Chandrashekhar-Prajapati-Portfolio/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/Chandrashekhar-Prajapati-Portfolio/index.html",
     "main.d03ff23b.css.map": "/Chandrashekhar-Prajapati-Portfolio/static/css/main.d03ff23b.css.map",
-    "main.81ae8ddc.js.map": "/Chandrashekhar-Prajapati-Portfolio/static/js/main.81ae8ddc.js.map",
+    "main.a4db6205.js.map": "/Chandrashekhar-Prajapati-Portfolio/static/js/main.a4db6205.js.map",
     "415.4d6acbeb.chunk.js.map": "/Chandrashekhar-Prajapati-Portfolio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/Chandrashekhar-Prajapati-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d03ff23b.css",
-    "static/js/main.81ae8ddc.js"
+    "static/js/main.a4db6205.js"
   ]
 }
