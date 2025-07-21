@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Chandrashekhar-Prajapati-Portfolio/static/css/main.d03ff23b.css",
-    "main.js": "/Chandrashekhar-Prajapati-Portfolio/static/js/main.a4db6205.js",
+    "main.js": "/Chandrashekhar-Prajapati-Portfolio/static/js/main.05b6f2f4.js",
     "static/js/415.4d6acbeb.chunk.js": "/Chandrashekhar-Prajapati-Portfolio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/Chandrashekhar-Prajapati-Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/leaf.png": "/Chandrashekhar-Prajapati-Portfolio/static/media/leaf.ff2616f664c8c0ceab91.png",
@@ -17,12 +17,12 @@
     "static/media/pre.svg": "/Chandrashekhar-Prajapati-Portfolio/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/Chandrashekhar-Prajapati-Portfolio/index.html",
     "main.d03ff23b.css.map": "/Chandrashekhar-Prajapati-Portfolio/static/css/main.d03ff23b.css.map",
-    "main.a4db6205.js.map": "/Chandrashekhar-Prajapati-Portfolio/static/js/main.a4db6205.js.map",
+    "main.05b6f2f4.js.map": "/Chandrashekhar-Prajapati-Portfolio/static/js/main.05b6f2f4.js.map",
     "415.4d6acbeb.chunk.js.map": "/Chandrashekhar-Prajapati-Portfolio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/Chandrashekhar-Prajapati-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d03ff23b.css",
-    "static/js/main.a4db6205.js"
+    "static/js/main.05b6f2f4.js"
   ]
 }
